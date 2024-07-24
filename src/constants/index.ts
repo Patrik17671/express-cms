@@ -1,0 +1,2 @@
+export const HASH_SECRET = 'EXPRESS-CMS-API';
+export const SESSION_AUTH_TOKEN = 'EXPRESS-CMS-AUTH';
